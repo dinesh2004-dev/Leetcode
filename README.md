@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dinesh2004-dev/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dinesh2004-dev/Leetcode/tree/master/0214-shortest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
