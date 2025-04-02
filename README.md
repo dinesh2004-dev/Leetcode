@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/dinesh2004-dev/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
 |  |
 | ------- |
@@ -137,22 +138,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
