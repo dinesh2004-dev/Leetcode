@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Database
+|  |
+| ------- |
+| [1155-product-sales-analysis-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
