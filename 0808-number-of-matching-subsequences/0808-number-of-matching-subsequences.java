@@ -1,39 +1,63 @@
 class Solution {
     public int numMatchingSubseq(String s, String[] words) {
 
-        Map<String,Integer> mpp = new HashMap<>();
+        // Map<String,Integer> mpp = new HashMap<>();
 
-        for(String str : words){
+        // for(String str : words){
 
-            mpp.put(str,mpp.getOrDefault(str,0) + 1);
-        }
+        //     mpp.put(str,mpp.getOrDefault(str,0) + 1);
+        // }
 
-        int ans = 0;
+        // int ans = 0;
 
-        char ch[] = s.toCharArray();
+        // char ch[] = s.toCharArray();
 
-        for(String str : mpp.keySet()){
+        // for(String str : mpp.keySet()){
 
-            char temp[] = str.toCharArray();
+        //     char temp[] = str.toCharArray();
 
-            int i = 0,j = 0;
+        //     int i = 0,j = 0;
 
-            while(i < ch.length && j < temp.length){
+        //     while(i < ch.length && j < temp.length){
 
-                if(ch[i] == temp[j]){
+        //         if(ch[i] == temp[j]){
 
-                    j++;
+        //             j++;
+        //         }
+                
+        //             i++;
+                
+        //     }
+        //     if(j == temp.length){
+
+        //         ans += mpp.get(str);
+        //     }
+        // }
+        // return ans;
+
+        int count = 0;
+
+        for(String word : words){
+
+            int prevIdx = 0;
+
+            boolean flag = true;
+
+            for(char ch : word.toCharArray()){
+
+                int index = s.indexOf(ch,prevIdx);
+
+                if(index == -1){
+                    flag = false;
+                    break;
                 }
-                
-                    i++;
-                
+                prevIdx = index + 1;
             }
-            if(j == temp.length){
-
-                ans += mpp.get(str);
+            if(flag){
+                count++;
             }
         }
-        return ans;
+        return  count;
         
     }
 }
