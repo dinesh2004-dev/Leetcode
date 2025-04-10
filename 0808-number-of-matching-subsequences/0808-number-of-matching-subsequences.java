@@ -22,13 +22,11 @@ class Solution {
 
                 if(ch[i] == temp[j]){
 
-                    i++;
-
                     j++;
                 }
-                else{
+                
                     i++;
-                }
+                
             }
             if(j == temp.length){
 
