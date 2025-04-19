@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0596-classes-more-than-5-students](https://github.com/dinesh2004-dev/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/dinesh2004-dev/Leetcode/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1877-find-followers-count](https://github.com/dinesh2004-dev/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/dinesh2004-dev/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
