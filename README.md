@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/dinesh2004-dev/Leetcode/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1452-restaurant-growth](https://github.com/dinesh2004-dev/Leetcode/tree/master/1452-restaurant-growth) |
+| [1670-patients-with-a-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/dinesh2004-dev/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/dinesh2004-dev/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/dinesh2004-dev/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
