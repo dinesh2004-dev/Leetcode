@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0196-delete-duplicate-emails](https://github.com/dinesh2004-dev/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/dinesh2004-dev/Leetcode/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/dinesh2004-dev/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0619-biggest-single-number) |
