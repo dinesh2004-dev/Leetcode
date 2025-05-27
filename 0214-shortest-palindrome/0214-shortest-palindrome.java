@@ -1,50 +1,51 @@
 class Solution {
+    public int[] computeLPS(String s){
+        int n = s.length();
 
-    public int[] findKmp(String s){
-
-        int[] kmp = new int[s.length()];
+        int[] lps = new int[n];
 
         int i = 1,j = 0;
 
-        while(i < s.length()){
+        while(i < n){
 
             if(s.charAt(i) == s.charAt(j)){
 
-                kmp[i] = j + 1;
-
+                lps[i] = j + 1;
+                j++;
                 i++;
 
-                j++;
             }
             else{
 
                 while(j > 0 && s.charAt(i) != s.charAt(j)){
-
-                    j = kmp[j - 1];
+                    j = lps[j - 1];
                 }
                 if(s.charAt(i) == s.charAt(j)){
-
-                    kmp[i] = j + 1;
+                    lps[i] = j + 1;
 
                     j++;
                 }
                 i++;
             }
         }
-        return kmp;
+
+        return lps;
     }
     public String shortestPalindrome(String s) {
-        
+        int n = s.length();
+
         StringBuilder revs = new StringBuilder(s);
 
-        String str = s + '$' + revs.reverse();
+        revs.reverse();
 
-        int[] kmp = findKmp(str);
+        String str = s+"$"+revs;
 
-        int ans = s.length() - kmp[kmp.length - 1];
+        int[] lps = computeLPS(str);
 
-        String toAdd = revs.substring(0,ans);
+        int ans = s.length() - lps[lps.length - 1];
 
-        return toAdd + s;
+        String toadd = revs.substring(0,ans);
+
+        return toadd+s;
     }
 }
