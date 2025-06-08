@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Memoization
 |  |
