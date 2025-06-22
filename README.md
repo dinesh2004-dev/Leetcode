@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dinesh2004-dev/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dinesh2004-dev/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/dinesh2004-dev/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Rolling Hash
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dinesh2004-dev/Leetcode/tree/master/0735-asteroid-collision) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
