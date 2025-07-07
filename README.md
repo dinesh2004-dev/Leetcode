@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/dinesh2004-dev/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dinesh2004-dev/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dinesh2004-dev/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dinesh2004-dev/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1559-cherry-pickup-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dinesh2004-dev/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dinesh2004-dev/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dinesh2004-dev/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0808-number-of-matching-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dinesh2004-dev/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dinesh2004-dev/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dinesh2004-dev/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Design
 |  |
