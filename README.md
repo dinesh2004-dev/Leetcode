@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/dinesh2004-dev/Leetcode/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0113-path-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
