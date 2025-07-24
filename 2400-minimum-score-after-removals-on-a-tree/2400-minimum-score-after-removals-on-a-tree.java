@@ -16,21 +16,22 @@ class Solution {
     public int minimumScore(int[] nums, int[][] edges) {
         int n = nums.length;
         graph = new ArrayList[n];
-
+        subtreeXor = new int[n];
+        descendants = new HashSet[n];
         for(int i = 0; i < n; i++){
             graph[i] = new ArrayList();
+             descendants[i] = new HashSet<>();
         }
         for(int[] edge : edges){
             graph[edge[0]].add(edge[1]);
             graph[edge[1]].add(edge[0]);
         }
 
-        subtreeXor = new int[n];
-        descendants = new HashSet[n];
+        
 
-        for(int i = 0; i < n; i++){
-            descendants[i] = new HashSet<>();
-        }
+        // for(int i = 0; i < n; i++){
+        //     descendants[i] = new HashSet<>();
+        // }
         dfs(0,-1,nums);
         int totalXor = subtreeXor[0];
         int minScore = Integer.MAX_VALUE;
