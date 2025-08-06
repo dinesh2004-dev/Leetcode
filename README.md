@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/dinesh2004-dev/Leetcode/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1155-product-sales-analysis-iii) |
+| [1390-average-selling-price](https://github.com/dinesh2004-dev/Leetcode/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/dinesh2004-dev/Leetcode/tree/master/1452-restaurant-growth) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dinesh2004-dev/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1670-patients-with-a-condition) |
