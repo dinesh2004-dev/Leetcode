@@ -1,6 +1,6 @@
 class Solution {
     public boolean solve(int[] nums, int start, Boolean[] memo) {
-        // Can reach or go beyond last index
+        
         if (start >= nums.length - 1) {
             return true;
         }
@@ -14,7 +14,7 @@ class Solution {
             return false;
         }
         
-        // Try all possible jumps from current position
+        
         for (int i = 1; i <= nums[start]; i++) {
             if (solve(nums, start + i, memo)) {
                 memo[start] = true;
@@ -27,7 +27,15 @@ class Solution {
     }
     
     public boolean canJump(int[] nums) {
-        Boolean[] memo = new Boolean[nums.length];
-        return solve(nums, 0, memo);
+        int n = nums.length;
+        int reachable = 0;
+
+        for(int i = 0; i < n; i++){
+            if(i > reachable){
+                return false;
+            }
+            reachable = Math.max(reachable,i + nums[i]);
+        }
+        return true;
     }
 }
