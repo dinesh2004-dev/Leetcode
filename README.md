@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/1161-project-employees-i) |
+| [1182-game-play-analysis-iv](https://github.com/dinesh2004-dev/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1390-average-selling-price](https://github.com/dinesh2004-dev/Leetcode/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/dinesh2004-dev/Leetcode/tree/master/1452-restaurant-growth) |
