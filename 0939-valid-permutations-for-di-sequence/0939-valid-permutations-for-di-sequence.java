@@ -1,34 +1,36 @@
 class Solution {
-    boolean[] vis;
-    Integer[][] memo;
-    int mod = (int)1e9+7;
-    public int numPermsDISequence(String s) {
-        vis = new boolean[s.length()+2];
-        memo = new Integer[s.length()][s.length()+3];
-        return solve(s,0,-1);
-    }
-    private int solve(String s,int idx,int prev){
-        if(idx >= s.length()){
+    private static int mod = 1000000007;
+    public int solve(int ind,int prev,String s,boolean[] visited, int[][] dp){
+        if(ind >= s.length()){
             return 1;
-        } else if(memo[idx][prev+1] != null){
-            return memo[idx][prev+1];
         }
-
+        if(dp[ind][prev + 1] != -1){
+            return dp[ind][prev+1];
+        }
         int cnt = 0;
-        for(int i=0;i<=s.length();i++){
-            if(!vis[i]){
-                vis[i] = true;
+        for(int i = 0; i <= s.length(); i++){
+            if(!visited[i]){
+                visited[i] = true;
+
                 if(prev == -1){
-                    cnt = (cnt + solve(s,idx,i)) % mod;
-                } else if((s.charAt(idx) == 'D' && i < prev) 
-                    || s.charAt(idx) == 'I' && i > prev){
-                        
-                    cnt = (cnt + solve(s,idx+1,i)) % mod;
+                    cnt = (cnt + solve(ind,i,s,visited,dp)) % mod;
                 }
-                vis[i] = false;
+                else if((s.charAt(ind) == 'D' && i < prev) || s.charAt(ind) == 'I' && i > prev){
+                    cnt = (cnt + solve(ind + 1,i,s,visited,dp)) % mod;
+                }
+
+                visited[i] = false;
             }
         }
-
-        return memo[idx][prev+1] = cnt;
+        return dp[ind][prev+1] = cnt;
+    }
+    public int numPermsDISequence(String s) {
+        int n = s.length();
+        boolean[] visited = new boolean[n + 2];
+        int[][] dp = new int[n][n + 2];
+        for(int[] d : dp){
+            Arrays.fill(d,-1);
+        }
+        return solve(0,-1,s,visited,dp);
     }
 }
