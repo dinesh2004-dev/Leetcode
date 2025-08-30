@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/dinesh2004-dev/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/dinesh2004-dev/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dinesh2004-dev/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dinesh2004-dev/Leetcode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0113-path-sum-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dinesh2004-dev/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
