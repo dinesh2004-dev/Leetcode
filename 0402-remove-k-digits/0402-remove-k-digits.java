@@ -9,9 +9,10 @@ class Solution {
 
             char ch = num.charAt(i);
             while(!st.isEmpty() && k > 0 && st.peek() > ch){
-
+               
                 k--;
                 st.pop();
+                
             }
 
             st.push(ch);
