@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/dinesh2004-dev/Leetcode/tree/master/1642-water-bottles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dinesh2004-dev/Leetcode/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/dinesh2004-dev/Leetcode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dinesh2004-dev/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
