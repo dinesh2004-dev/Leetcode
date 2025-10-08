@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/dinesh2004-dev/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2428-equal-row-and-column-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dinesh2004-dev/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dinesh2004-dev/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sliding Window
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/dinesh2004-dev/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
