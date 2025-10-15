@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/dinesh2004-dev/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dinesh2004-dev/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
