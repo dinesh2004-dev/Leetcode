@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/dinesh2004-dev/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0402-remove-k-digits) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/dinesh2004-dev/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Backtracking
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dinesh2004-dev/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -550,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
