@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dinesh2004-dev/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1319-unique-number-of-occurrences](https://github.com/dinesh2004-dev/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dinesh2004-dev/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dinesh2004-dev/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dinesh2004-dev/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1073-number-of-enclaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1559-cherry-pickup-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dinesh2004-dev/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1073-number-of-enclaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dinesh2004-dev/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dinesh2004-dev/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1073-number-of-enclaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/dinesh2004-dev/Leetcode/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1073-number-of-enclaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Iterator
 |  |
 | ------- |
