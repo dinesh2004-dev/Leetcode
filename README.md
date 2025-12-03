@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/dinesh2004-dev/Leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/dinesh2004-dev/Leetcode/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dinesh2004-dev/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/dinesh2004-dev/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/dinesh2004-dev/Leetcode/tree/master/0901-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Backtracking
 |  |
@@ -558,11 +560,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dinesh2004-dev/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/dinesh2004-dev/Leetcode/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dinesh2004-dev/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/dinesh2004-dev/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/dinesh2004-dev/Leetcode/tree/master/0901-online-stock-span) |
 ## Union Find
 |  |
 | ------- |
