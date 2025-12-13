@@ -1,18 +1,22 @@
 class Solution {
-    public boolean isPalindrome(String s,int l,int h){
+    public boolean solve(String s,int l,int h,boolean[][] dp){
 
-        while(l <= h){
+        if(l >= h){
 
-            if(s.charAt(l) != s.charAt(h)){
-
-                return false;
-            }
-
-            l++;
-            h--;
+            return true;
         }
 
-        return true;
+        if(dp[l][h]){
+
+            return dp[l][h];
+        }
+
+        if(s.charAt(l) == s.charAt(h)){
+
+            return dp[l][h] = solve(s,l + 1,h - 1,dp);
+        }
+
+        return dp[l][h] = false;
     }
     public int countSubstrings(String s) {
 
@@ -20,11 +24,13 @@ class Solution {
 
         int count = 0;
 
+        boolean[][] dp = new boolean[n][n];
+
         for(int i = 0; i < n; i++){
 
             for(int j = i; j < n; j++){
 
-                if(isPalindrome(s,i,j)){
+                if(solve(s,i,j,dp)){
 
                     count++;
                 }
