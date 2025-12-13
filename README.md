@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dinesh2004-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/dinesh2004-dev/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dinesh2004-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dinesh2004-dev/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dinesh2004-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dinesh2004-dev/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dinesh2004-dev/Leetcode/tree/master/0062-unique-paths) |
