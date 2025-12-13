@@ -1,37 +1,46 @@
 class Solution {
-    private boolean isPalindrome(String str) {
-        int left = 0;
-        int right = str.length() - 1;
+    public boolean solve(String s,int i,int j,boolean[][] dp){
 
-        while (left < right) {
-            if (str.charAt(left) != str.charAt(right)) {
-                return false;
-            }
-            left++;
-            right--;
+        if( i >= j){
+
+            return true;
         }
 
-        return true;
+        if(dp[i][j]){
+
+            return dp[i][j];
+        }
+
+        if(s.charAt(i) == s.charAt(j)){
+
+            return dp[i][j] = solve(s,i + 1,j - 1,dp);
+        }
+
+        return dp[i][j] = false;
+
     }
     public String longestPalindrome(String s) {
 
-        if (s.length() <= 1) {
-            return s;
-        }
+        int n = s.length();
 
+        boolean[][] dp = new boolean[n][n];
+
+        int startIdx = 0;
         int maxLen = 1;
-        String maxStr = s.substring(0, 1);
 
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = i + maxLen; j <= s.length(); j++) {
-                if (j - i > maxLen && isPalindrome(s.substring(i, j))) {
-                    maxLen = j - i;
-                    maxStr = s.substring(i, j);
+        for(int i = 0; i < n; i++){
+
+            for(int j = i; j < n; j++){
+
+                if(j - i + 1  > maxLen && solve(s,i,j,dp)){
+
+                    startIdx = i;
+                   maxLen = j - i + 1;
                 }
             }
         }
 
-        return maxStr;
+        return s.substring(startIdx,startIdx + maxLen);
         
     }
 }
