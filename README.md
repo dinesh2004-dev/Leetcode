@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/dinesh2004-dev/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/dinesh2004-dev/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dinesh2004-dev/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/dinesh2004-dev/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/dinesh2004-dev/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/dinesh2004-dev/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
