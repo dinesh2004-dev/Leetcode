@@ -83,8 +83,8 @@ class Solution {
             newNums[i + 1] = nums[i];
         }
 
-        // return memoize(newNums,1,n,dp);
+        return memoize(newNums,1,n,dp);
 
-        return tabulation(newNums);
+        // return tabulation(newNums);
     }
 }
