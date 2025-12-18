@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/dinesh2004-dev/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/dinesh2004-dev/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/dinesh2004-dev/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dinesh2004-dev/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/dinesh2004-dev/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/dinesh2004-dev/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dinesh2004-dev/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dinesh2004-dev/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/dinesh2004-dev/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/dinesh2004-dev/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
 | ------- |
