@@ -1,21 +1,28 @@
 class Solution {
     public int minDeletionSize(String[] strs) {
-        
+
         int count = 0;
+        int m = strs.length;
+        int n = strs[0].length();
 
-        for(int i = 0; i < strs[0].length(); i++){
+        // Convert all strings to char arrays first
+        char[][] matrix = new char[m][];
+        for(int i = 0; i < m; i++){
+            matrix[i] = strs[i].toCharArray();
+        }
 
-            char ch = strs[0].charAt(i);
+        for(int col = 0; col < n; col++){
 
-            for(int j = 1; j < strs.length; j++){
+            char prev = matrix[0][col];
 
-                if(ch > strs[j].charAt(i)){
+            for(int row = 1; row < m; row++){
 
+                if(prev > matrix[row][col]){
                     count++;
                     break;
                 }
 
-                ch = strs[j].charAt(i);
+                prev = matrix[row][col];
             }
         }
 
