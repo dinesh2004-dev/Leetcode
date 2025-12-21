@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-valid-permutations-for-di-sequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dinesh2004-dev/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/dinesh2004-dev/Leetcode/tree/master/0953-reverse-only-letters) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dinesh2004-dev/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/dinesh2004-dev/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/dinesh2004-dev/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dinesh2004-dev/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dinesh2004-dev/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dinesh2004-dev/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dinesh2004-dev/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/dinesh2004-dev/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
