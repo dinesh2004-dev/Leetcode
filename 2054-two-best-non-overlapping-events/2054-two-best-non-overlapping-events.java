@@ -4,6 +4,7 @@ class Solution {
         Arrays.sort(events,(x,y) -> x[0] - y[0]);
 
         PriorityQueue<int[]> pq = new PriorityQueue<>((x,y) -> x[0] - y[0]);
+        // Queue<int[]> pq = new LinkedList<>();
 
         int ans = 0;
         int maxVal = 0;
