@@ -18,10 +18,10 @@ class Solution {
             }
         }
 
-            if(grid[row + 1][col + 1] != 5){
+            // if(grid[row + 1][col + 1] != 5){
 
-                return false;
-            }
+            //     return false;
+            // }
 
             int sum = 15;
 
