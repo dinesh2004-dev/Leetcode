@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/dinesh2004-dev/Leetcode/tree/master/0279-perfect-squares) |
+| [0840-magic-squares-in-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/dinesh2004-dev/Leetcode/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0840-magic-squares-in-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/dinesh2004-dev/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/dinesh2004-dev/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dinesh2004-dev/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0840-magic-squares-in-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/dinesh2004-dev/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/dinesh2004-dev/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dinesh2004-dev/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
