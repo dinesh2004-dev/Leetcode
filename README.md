@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-valid-permutations-for-di-sequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1559-cherry-pickup-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dinesh2004-dev/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
