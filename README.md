@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/dinesh2004-dev/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dinesh2004-dev/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/dinesh2004-dev/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dinesh2004-dev/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/dinesh2004-dev/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1975-maximum-matrix-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dinesh2004-dev/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dinesh2004-dev/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dinesh2004-dev/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
