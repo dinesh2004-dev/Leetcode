@@ -13,73 +13,41 @@
  *     }
  * }
  */
+ class Result{
+     TreeNode node;
+     int depth;
+
+     public Result(TreeNode node,int depth){
+
+        this.node = node;
+        this.depth = depth;
+
+     }
+ }
 class Solution {
-    public TreeNode lca(TreeNode root,TreeNode p,TreeNode q){
-
-        if(root == null || root == p || root == q){
-
-            return root;
-        }
-
-        TreeNode left = lca(root.left,p,q);
-        TreeNode right = lca(root.right,p,q);
-
-        if(left == null){
-
-            return right;
-        }
-        else if(right == null){
-
-            return left;
-        }
-
-        return root;
-    }
-    public void findDepestNodes(TreeNode root,Map<TreeNode,Integer> mpp,int depth){
+    public Result findSubtreeWithAlldeepest(TreeNode root){
 
         if(root == null){
 
-            return;
+            return new Result(null,0);
         }
 
-        mpp.put(root,depth);
+        Result left = findSubtreeWithAlldeepest(root.left);
+        Result right = findSubtreeWithAlldeepest(root.right);
 
-        findDepestNodes(root.left,mpp,depth + 1);
-        findDepestNodes(root.right,mpp,depth + 1);
+        if(left.depth > right.depth){
 
+            return new Result(left.node,left.depth + 1);
+        }
+        else if(right.depth > left.depth){
+
+            return new Result(right.node,right.depth + 1);
+        }
+
+        return new Result(root,left.depth + 1);
     }
     public TreeNode subtreeWithAllDeepest(TreeNode root) {
         
-       Map<TreeNode,Integer> mpp = new HashMap<>();
-
-       findDepestNodes(root,mpp,0);
-
-       int maxDepth = Collections.max(mpp.values());
-       
-       List<TreeNode> maxDeepestNodes = new ArrayList<>();
-
-       for(Map.Entry<TreeNode,Integer> set : mpp.entrySet()){
-
-            TreeNode node = set.getKey();
-            int val = set.getValue();
-
-            if(val == maxDepth){
-
-                maxDeepestNodes.add(node);
-            }
-       }
-
-       if(maxDeepestNodes.size() == 1){
-
-            return maxDeepestNodes.get(0);
-       }
-
-       TreeNode lcaNode = lca(root,maxDeepestNodes.get(0),maxDeepestNodes.get(1));
-       for(int i = 2; i < maxDeepestNodes.size(); i++){
-
-            lcaNode = lca(root,lcaNode,maxDeepestNodes.get(i));
-       }
-
-       return lcaNode;
+        return findSubtreeWithAlldeepest(root).node;
     }
 }
