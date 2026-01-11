@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dinesh2004-dev/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/dinesh2004-dev/Leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dinesh2004-dev/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dinesh2004-dev/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/dinesh2004-dev/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0394-decode-string) |
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/dinesh2004-dev/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/dinesh2004-dev/Leetcode/tree/master/0901-online-stock-span) |
