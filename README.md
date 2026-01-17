@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dinesh2004-dev/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/dinesh2004-dev/Leetcode/tree/master/0223-rectangle-area) |
 | [0279-perfect-squares](https://github.com/dinesh2004-dev/Leetcode/tree/master/0279-perfect-squares) |
 | [0840-magic-squares-in-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/dinesh2004-dev/Leetcode/tree/master/0223-rectangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dinesh2004-dev/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dinesh2004-dev/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
