@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/dinesh2004-dev/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/dinesh2004-dev/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-largest-magic-square](https://github.com/dinesh2004-dev/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dinesh2004-dev/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-valid-permutations-for-di-sequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/dinesh2004-dev/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1895-largest-magic-square](https://github.com/dinesh2004-dev/Leetcode/tree/master/1895-largest-magic-square) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dinesh2004-dev/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/dinesh2004-dev/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/dinesh2004-dev/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1895-largest-magic-square](https://github.com/dinesh2004-dev/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dinesh2004-dev/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
