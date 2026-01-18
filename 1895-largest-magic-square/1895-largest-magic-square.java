@@ -80,7 +80,7 @@ class Solution {
         int mini = Math.min(m,n);
         int ans = 1;
 
-        for(int k = 1; k <= mini; k++){
+        for(int k = 2; k <= mini; k++){
 
             for(int i = 0; i + k - 1 < m; i++){
 
