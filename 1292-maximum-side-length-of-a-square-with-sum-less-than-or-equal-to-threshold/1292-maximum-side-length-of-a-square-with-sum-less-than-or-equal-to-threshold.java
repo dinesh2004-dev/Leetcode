@@ -11,6 +11,25 @@ class Solution {
 
         return sum <= threshold;
      }
+     public boolean existsSquare(int[][] mat, int[][] rowSum, int k, int threshold){
+
+        int m = mat.length;
+        int n = mat[0].length;
+
+        for(int i = 0; i + k - 1 < m; i++){
+
+                for(int j = 0; j + k - 1 < n; j++){
+
+                    if(isUnderThreshold(mat,rowSum,i,j,i+k-1,j+k-1,threshold)){
+
+                        return true;
+                    }
+                }
+            }
+
+            return false;
+
+     }
     public int maxSideLength(int[][] mat, int threshold) {
         
         int m = mat.length;
@@ -28,20 +47,22 @@ class Solution {
 
         int ans = 0;
 
-        for(int k = 1; k <= Math.min(m,n); k++){
+        int low = 0,high = Math.min(m,n);
 
-            for(int i = 0; i + k - 1 < m; i++){
+        while(low <= high){
 
-                for(int j = 0; j + k - 1 < n; j++){
+            int mid = low + (high - low) / 2;
 
-                    if(isUnderThreshold(mat,rowSum,i,j,i+k-1,j+k-1,threshold)){
+            if(existsSquare(mat,rowSum,mid,threshold)){
 
-                        ans = Math.max(ans,k);
-                    }
-                }
+                low = mid + 1;
+            }
+            else{
+
+                high = mid - 1;
             }
         }
 
-        return ans;
+        return high;
     }
 }
