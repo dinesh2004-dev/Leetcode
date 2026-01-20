@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/dinesh2004-dev/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dinesh2004-dev/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dinesh2004-dev/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dinesh2004-dev/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3453-separate-squares-i) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dinesh2004-dev/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Database
