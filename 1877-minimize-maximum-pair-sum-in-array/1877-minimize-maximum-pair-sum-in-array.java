@@ -18,7 +18,7 @@ class Solution {
             low++;
             high--;
         }
-
+        
         return maxSum;
     }
 }
