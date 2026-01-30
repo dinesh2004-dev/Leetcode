@@ -15,6 +15,8 @@ class Solution {
             int v = changed[i] - 'a';
 
             adj[u][v] = Math.min(adj[u][v],cost[i]);
+
+            // adj[u][v] = cost[i];
         }
 
         for(int k = 0; k < 26; k++){
