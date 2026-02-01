@@ -1,26 +1,24 @@
 class Solution {
     public int minimumCost(int[] nums) {
         
-        // if(nums.length == 3){
+       
 
-        //     return nums[0] + nums[1] + nums[2];
-        // }
-        int ele1 = nums[0];
+        int firstSmaller = Integer.MAX_VALUE,secondSmaller = Integer.MIN_VALUE;
 
-        Arrays.sort(nums);
+        for(int i = 1; i < nums.length; i++){
 
-        if(ele1 == nums[0]){
+            if(nums[i] < firstSmaller){
 
-            return ele1 + nums[1] + nums[2];
+                secondSmaller = firstSmaller;
+
+                 firstSmaller = nums[i];
+            }
+            else if(nums[i] < secondSmaller){
+
+                secondSmaller = nums[i];
+            }
         }
 
-        else if(ele1 == nums[1]){
-
-            return ele1 + nums[0] + nums[2];
-        }
-        else{
-
-           return ele1 + nums[0] + nums[1];
-        }
+       return nums[0] + firstSmaller + secondSmaller;
     }
 }
