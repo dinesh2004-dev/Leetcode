@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/dinesh2004-dev/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/dinesh2004-dev/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dinesh2004-dev/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/dinesh2004-dev/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dinesh2004-dev/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/dinesh2004-dev/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sorting
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/dinesh2004-dev/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dinesh2004-dev/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/dinesh2004-dev/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/dinesh2004-dev/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Design
 |  |
 | ------- |
