@@ -15,7 +15,7 @@ class Solution {
 
         List<Integer> list = new ArrayList<>(mpp.values());
 
-        Collections.sort(list);
+        list.sort(Collections.reverseOrder());
 
         return list.get(0) + list.get(1) + list.get(2);
 
