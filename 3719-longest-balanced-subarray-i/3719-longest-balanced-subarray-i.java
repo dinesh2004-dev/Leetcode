@@ -10,6 +10,11 @@ class Solution {
         for(int i = 0; i < n; i++){
 
             int even = 0,odd = 0;
+
+            if(maxLen >= n - i){
+
+                break;
+            }
             HashSet<Integer> seen = new HashSet<>();
             for(int j = i; j < n; j++){
 
