@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/dinesh2004-dev/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/dinesh2004-dev/Leetcode/tree/master/1895-largest-magic-square) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dinesh2004-dev/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/dinesh2004-dev/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/dinesh2004-dev/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/dinesh2004-dev/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3713-longest-balanced-substring-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
