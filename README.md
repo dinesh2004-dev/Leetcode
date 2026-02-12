@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/dinesh2004-dev/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/dinesh2004-dev/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3713-longest-balanced-substring-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/dinesh2004-dev/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dinesh2004-dev/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3713-longest-balanced-substring-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
 | ------- |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dinesh2004-dev/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dinesh2004-dev/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/dinesh2004-dev/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Brainteaser
 |  |
