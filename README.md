@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dinesh2004-dev/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/dinesh2004-dev/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
