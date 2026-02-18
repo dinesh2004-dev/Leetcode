@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/dinesh2004-dev/Leetcode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/dinesh2004-dev/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dinesh2004-dev/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
