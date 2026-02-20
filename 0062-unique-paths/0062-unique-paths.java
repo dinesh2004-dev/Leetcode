@@ -1,21 +1,21 @@
 class Solution {
-    private void solve(int row,int col,int m,int n,String path,Set<String> set){
+    // private void solve(int row,int col,int m,int n,String path,Set<String> set){
 
-        if(row > m || row < 1 || col > n || col < 1){
+    //     if(row > m || row < 1 || col > n || col < 1){
 
-            return;
-        }
+    //         return;
+    //     }
 
-        if(row == m && col == n){
+    //     if(row == m && col == n){
 
-            set.add(path);
-            return;
-        }
+    //         set.add(path);
+    //         return;
+    //     }
 
-        solve(row + 1,col,m,n,path+"B",set);
-        solve(row,col + 1,m,n,path+"R",set);
+    //     solve(row + 1,col,m,n,path+"B",set);
+    //     solve(row,col + 1,m,n,path+"R",set);
 
-    }
+    // }
     public int uniquePaths(int m, int n) {
         
         int dp[][] = new int[m+1][n+1];
