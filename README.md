@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/dinesh2004-dev/Leetcode/tree/master/0223-rectangle-area) |
 | [0279-perfect-squares](https://github.com/dinesh2004-dev/Leetcode/tree/master/0279-perfect-squares) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dinesh2004-dev/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dinesh2004-dev/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/dinesh2004-dev/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dinesh2004-dev/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/dinesh2004-dev/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dinesh2004-dev/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
