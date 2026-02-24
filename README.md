@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dinesh2004-dev/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/dinesh2004-dev/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1073-number-of-enclaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dinesh2004-dev/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/dinesh2004-dev/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
