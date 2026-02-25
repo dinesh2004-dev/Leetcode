@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/dinesh2004-dev/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dinesh2004-dev/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/dinesh2004-dev/Leetcode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/dinesh2004-dev/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dinesh2004-dev/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dinesh2004-dev/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dinesh2004-dev/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dinesh2004-dev/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dinesh2004-dev/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/dinesh2004-dev/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dinesh2004-dev/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
