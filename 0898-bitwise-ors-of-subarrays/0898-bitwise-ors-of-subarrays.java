@@ -1,32 +1,25 @@
 class Solution {
-
-    Set<Integer> set= new HashSet<>();
-    Set<String> dp= new HashSet<>();
-
     public int subarrayBitwiseORs(int[] arr) {
+        
+        Set<Integer> res = new HashSet<>();
+        Set<Integer> curr = new HashSet<>();
 
-        int n= arr.length;
+        for(int i = 0; i < arr.length; i++){
 
-        for(int i=0;i<n;i++){
-            solve(i,arr,0);
+            Set<Integer> next = new HashSet<>();
+
+            next.add(arr[i]);
+
+            for(int y : curr){
+
+                next.add(y | arr[i]);
+            }
+
+            res.addAll(next);
+
+            curr = next;
         }
 
-        return set.size();
-    }
-
-    public void solve(int i,int arr[], int currOr){
-
-        if(i==arr.length){
-            return;
-        }
-
-        String key=i+","+currOr;
-        if(dp.contains(key)) return;
-
-        dp.add(key);
-
-        currOr|=arr[i];
-        set.add(currOr);
-        solve(i+1,arr,currOr);
+        return res.size();
     }
 }
