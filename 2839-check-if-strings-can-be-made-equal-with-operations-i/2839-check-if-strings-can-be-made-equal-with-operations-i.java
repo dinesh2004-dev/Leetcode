@@ -1,10 +1,10 @@
 class Solution {
     public boolean canBeEqual(String s1, String s2) {
 
-        if(s1.equals(s2)){
+        // if(s1.equals(s2)){
 
-            return true;
-        }
+        //     return true;
+        // }
         
         for(int i = 0; i < 4; i++){
 
