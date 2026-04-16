@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/dinesh2004-dev/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dinesh2004-dev/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/dinesh2004-dev/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dinesh2004-dev/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dinesh2004-dev/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/dinesh2004-dev/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/dinesh2004-dev/Leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dinesh2004-dev/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/dinesh2004-dev/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
