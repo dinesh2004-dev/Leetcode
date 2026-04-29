@@ -28,12 +28,14 @@ class MedianFinder {
         int n1 = smaller.size();
         int n2 = larger.size();
 
-        if(n1 > n2){
+        if(n1 == n2){
 
-            return (double) smaller.peek();
+            // return (double) smaller.peek();
+            return ((double) (smaller.peek() + larger.peek())) / 2.0;
         }
 
-        return ((double) (smaller.peek() + larger.peek())) / 2.0;
+        // return ((double) (smaller.peek() + larger.peek())) / 2.0;
+        return (double) smaller.peek();
         
     }
 }
