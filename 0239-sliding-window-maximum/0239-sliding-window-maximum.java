@@ -1,33 +1,40 @@
-class Solution {
-    class Pair{
-        int val;
-        int idx;
-        public Pair(int val,int idx){
-            this.val = val;
-            this.idx = idx;
-        }
+class Pair{
+
+    int val;
+    int idx;
+
+    public Pair(int val,int idx){
+
+        this.val = val;
+        this.idx = idx;
     }
+}
+class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         
         int n = nums.length;
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b) -> b.val - a.val);
+        PriorityQueue<Pair> pq = new PriorityQueue<>((x,y) -> y.val - x.val);
 
-        ArrayList<Integer> res = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+
         for(int i = 0; i < n; i++){
-            Pair pair = new Pair(nums[i],i);
-            
-            pq.add(pair);
+
+            pq.add(new Pair(nums[i],i));
 
             while(pq.peek().idx <= i - k){
+
                 pq.poll();
             }
 
             if(i >= k - 1){
-                res.add(pq.peek().val);
+
+                list.add(pq.peek().val);
             }
         }
 
-        return res.stream().mapToInt(Integer::intValue).toArray();
+        return list.stream()
+                    .mapToInt(Integer :: intValue)
+                    .toArray();
     }
 }
