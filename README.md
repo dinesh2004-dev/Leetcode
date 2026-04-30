@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/dinesh2004-dev/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dinesh2004-dev/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/dinesh2004-dev/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dinesh2004-dev/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/dinesh2004-dev/Leetcode/tree/master/0621-task-scheduler) |
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dinesh2004-dev/Leetcode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/dinesh2004-dev/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0761-special-binary-string) |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/dinesh2004-dev/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -759,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/dinesh2004-dev/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/dinesh2004-dev/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
