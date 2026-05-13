@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/dinesh2004-dev/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dinesh2004-dev/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dinesh2004-dev/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/dinesh2004-dev/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/dinesh2004-dev/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-valid-permutations-for-di-sequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dinesh2004-dev/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dinesh2004-dev/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/dinesh2004-dev/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/dinesh2004-dev/Leetcode/tree/master/1895-largest-magic-square) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/dinesh2004-dev/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dinesh2004-dev/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dinesh2004-dev/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dinesh2004-dev/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
