@@ -1,13 +1,11 @@
 class Solution {
-    public void reverseString(char[] c,int start,int end){
+    private void reverse(char[] chars,int start,int end){
 
-        while(start < end){
+        while(start <= end){
 
-            char temp = c[start];
-
-            c[start] = c[end];
-
-            c[end] = temp;
+            char temp = chars[start];
+            chars[start] = chars[end];
+            chars[end] = temp;
 
             start++;
             end--;
@@ -17,37 +15,45 @@ class Solution {
         
         int n = s.length();
 
-        int i = 0, j = 0,start = 0,end = 0;
+        char[] chars = s.toCharArray();
 
-        char[] c = s.toCharArray();
+        StringBuilder str = new StringBuilder();
 
-        reverseString(c,0,n - 1);
+        reverse(chars,0,n - 1);
+        int i = 0,j = 0,start = 0,end = 0;
+        while(i < n){
 
-        while(j < n){
-            if(c[j] == ' '){
-                j++;
+            if(chars[i] == ' '){
+
+                i++;
                 continue;
             }
-            start = i;
-            while(j < n && c[j] != ' '){
 
-                c[i] = c[j];
+            start = j;
+            
+
+            while(i < n && chars[i] != ' '){
+
+                chars[j] = chars[i];
 
                 i++;
                 j++;
             }
-            end = i - 1;
 
-            reverseString(c,start,end);
+            end = j - 1;
 
-            if(i < n){
+            reverse(chars,start,end);
 
-                c[i++] = ' ';
+            if(j < n){
+
+                chars[j] = ' ';
+                j++;
             }
 
-            
         }
 
-        return new String(c).substring(0,end + 1);
+        return new String(chars).substring(0,end + 1);
+
+        // return new String(chars);
     }
 }
