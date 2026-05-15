@@ -1,51 +1,71 @@
 class Solution {
-    public boolean func(int n,int[] arr,int k){
+    public boolean targetSum(int ind,int[] nums,int target){
 
-        boolean[][] dp = new boolean[n + 1][k + 1];
+        //  if(ind == nums.length){
+
+        //     return false;
+        // }
+
+        // if(target == 0){
+
+        //     return true;
+        // }
+
+       
+
+        // boolean notPick = targetSum(ind + 1,nums,target);
+        // boolean pick = false;
+
+        // if(target - nums[ind] >= 0){
+
+        //     pick = targetSum(ind + 1,nums,target - nums[ind]);
+        // }
+
+        // return pick || notPick;
+
+        int n = nums.length;
+
+        boolean[][] dp = new boolean[n + 1][target + 1];
 
         for(int i = 0; i <= n; i++){
 
             dp[i][0] = true;
         }
-        if(arr[0] <= k){
 
-            dp[0][arr[0]] = true;
-        }
+        for(int i = n - 1; i >= 0; i--){
 
-        for(int i = 1; i <= n; i++){
+            for(int tar = 1; tar <= target; tar++){
 
-            for(int j = 1; j <= k;j++){
-
-                boolean notPick = dp[i - 1][j];
-
+                boolean notPick = dp[i + 1][tar];
                 boolean pick = false;
 
-                if(j >= arr[i]){
+                if(tar - nums[i] >= 0){
 
-                    pick = dp[i - 1][j - arr[i]];
+                    pick = dp[i + 1][tar - nums[i]];
                 }
 
-                dp[i][j] = pick || notPick;
-
+                dp[i][tar] = pick || notPick;
             }
         }
 
-        return dp[n][k];
+        return dp[0][target];
     }
-
     public boolean canPartition(int[] nums) {
-        int sum = Arrays.stream(nums).sum();
-
+        
         int n = nums.length;
 
-            if(sum % 2 == 1){
-                return false;
-            }
-            else{
+        int sum = 0;
 
-                int k = sum / 2;
+        for(int num : nums){
 
-                return func(n - 1,nums,k);
-            }
+            sum += num;
+        }
+
+        if(sum % 2 != 0){
+
+            return false;
+        }
+
+        return targetSum(0,nums,sum / 2);
     }
 }
