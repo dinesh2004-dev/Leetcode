@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/dinesh2004-dev/Leetcode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/dinesh2004-dev/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/dinesh2004-dev/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dinesh2004-dev/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dinesh2004-dev/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/dinesh2004-dev/Leetcode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dinesh2004-dev/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0518-coin-change-ii) |
