@@ -32,23 +32,37 @@ class Solution {
             dp[i][0] = true;
         }
 
+        
+
         for(int i = n - 1; i >= 0; i--){
 
             for(int tar = 1; tar <= target; tar++){
 
                 boolean notPick = dp[i + 1][tar];
+               
                 boolean pick = false;
 
                 if(tar - nums[i] >= 0){
 
                     pick = dp[i + 1][tar - nums[i]];
+
+                    
                 }
 
                 dp[i][tar] = pick || notPick;
+
+                
             }
         }
 
+       
+
+            
+
+       
         return dp[0][target];
+
+       
     }
     public boolean canPartition(int[] nums) {
         
