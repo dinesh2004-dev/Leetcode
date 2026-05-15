@@ -1,4 +1,17 @@
 class Solution {
+
+    private static Map<Integer,int[]> mpp = new HashMap<>();
+    private void fillMap(String[] strs){
+
+        int n = strs.length;
+
+        for(int i = 0; i < n; i++){
+
+            String s = strs[i];
+
+            mpp.put(i,countOnesAndZeros(s));
+        }
+    }
     private int[] countOnesAndZeros(String s){
 
         int ones = 0,zeros = 0;
@@ -31,7 +44,7 @@ class Solution {
 
         int notPick = solve(ind + 1,strs,m,n,dp);
 
-        int[] onesAndZeros = countOnesAndZeros(strs[ind]);
+        int[] onesAndZeros = mpp.get(ind);
 
         int zeros = onesAndZeros[0];
         int ones = onesAndZeros[1];
@@ -60,6 +73,8 @@ class Solution {
                 Arrays.fill(d2,-1);
             }
         }
+        
+        fillMap(strs);
         
         return solve(0,strs,m,n,dp);
     }
