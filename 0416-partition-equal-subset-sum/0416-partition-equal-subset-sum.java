@@ -25,32 +25,26 @@ class Solution {
 
         int n = nums.length;
 
-        boolean[][] dp = new boolean[n + 1][target + 1];
+        boolean[] dp = new boolean[target + 1];
 
-        for(int i = 0; i <= n; i++){
-
-            dp[i][0] = true;
-        }
-
+        dp[0] = true;
         
-
         for(int i = n - 1; i >= 0; i--){
 
-            for(int tar = 1; tar <= target; tar++){
+            for(int tar = target; tar >= 0; tar--){
 
-                boolean notPick = dp[i + 1][tar];
+                boolean notPick = dp[tar];
                
                 boolean pick = false;
 
                 if(tar - nums[i] >= 0){
 
-                    pick = dp[i + 1][tar - nums[i]];
+                    pick = dp[tar - nums[i]];
 
                     
                 }
 
-                dp[i][tar] = pick || notPick;
-
+                dp[tar] = pick || notPick;
                 
             }
         }
@@ -60,7 +54,7 @@ class Solution {
             
 
        
-        return dp[0][target];
+        return dp[target];
 
        
     }
