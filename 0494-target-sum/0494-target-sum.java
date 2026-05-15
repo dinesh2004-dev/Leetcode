@@ -25,28 +25,28 @@ class Solution {
 
         int n = nums.length;
 
-        int[][] dp = new int[n + 1][target + 1];
+        int[] dp = new int[target + 1];
 
-        dp[n][0] = 1;
+        dp[0] = 1;
 
         for(int i = n - 1; i >= 0; i--){
 
             for(int tar = target; tar >= 0; tar--){
 
-                int notPick = dp[i + 1][tar];
+                int notPick = dp[tar];
                 
                 int pick = 0;
 
                 if(tar - nums[i] >= 0){
 
-                    pick = dp[i + 1][tar - nums[i]];
+                    pick = dp[tar - nums[i]];
                 }
 
-                dp[i][tar] = pick + notPick;
+                dp[tar] = pick + notPick;
             }
         }
 
-        return dp[0][target];
+        return dp[target];
     }
     public int findTargetSumWays(int[] nums, int target) {
         
