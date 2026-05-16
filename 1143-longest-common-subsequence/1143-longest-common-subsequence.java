@@ -35,9 +35,10 @@ class Solution {
         
         // return solve(0,0,text1,text2,dp);
 
+
         // int[][] dp = new int[n1 + 1][n2 + 1];
 
-         int[] prev = new int[n2 + 1];
+        int[] prev = new int[n2 + 1];
         int[] curr = new int[n2 + 1];
 
         for(int ind1 = n1 - 1; ind1 >= 0; ind1--){
@@ -54,7 +55,7 @@ class Solution {
                 }
             }
 
-            System.arraycopy(curr, 0, prev, 0, n2 + 1);
+            System.arraycopy(curr,0,prev,0,n2 + 1);
         }
 
         return prev[0];
