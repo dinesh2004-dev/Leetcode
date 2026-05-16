@@ -42,42 +42,40 @@ class Solution {
 
         // return solve(0,n,minProfit,0,group,profit,dp);
 
-        int len = group.length;
+       int len = group.length;
+    int mod = 1000000007;
 
-        int profitSum = Arrays.stream(profit).sum();
+    // dp[j][k] = number of schemes using j members with k profit
+    int[][] curr = new int[n + 1][minProfit + 1];  // minProfit+1, not profitSum+1
+    int[][] next = new int[n + 1][minProfit + 1];
 
-        int[][][] dp = new int[len  + 1][n + 1][profitSum + 1];
+    // Base condition: ind == len, currProfit >= minProfit → 1
+    for(int j = 0; j <= n; j++){
+        next[j][minProfit] = 1;  // cap profit at minProfit (explained below)
+    }
 
-       for(int j = 0; j <= n; j++){
+    for(int ind = len - 1; ind >= 0; ind--){
+        for(int j = 0; j <= n; j++){
+            for(int k = 0; k <= minProfit; k++){
 
-        for(int k = minProfit; k <= profitSum; k++){
+                int notPick = next[j][k];
 
-            dp[len][j][k] = 1;
-          }
-       }
-
-       for(int ind = len - 1; ind >= 0; ind--){
-
-            for(int j = 0; j <= n; j++){
-
-                for(int currProfit = 0; currProfit <= profitSum; currProfit++){
-
-                    int notPick =dp[ind + 1][j][currProfit];
-
-                    int pick = 0;
-
-                    if(j >= group[ind]){
-
-                         int newProfit = Math.min(currProfit + profit[ind], profitSum);
-                        pick = dp[ind + 1][j - group[ind]][newProfit];
-                    }
-
-                    dp[ind][j][currProfit] = (pick + notPick) % 1000000007;
+                int pick = 0;
+                if(j >= group[ind]){
+                    int newProfit = Math.min(k + profit[ind], minProfit); // cap at minProfit
+                    pick = next[j - group[ind]][newProfit];
                 }
-            }
-       }
 
-       return dp[0][n][0];
+                curr[j][k] = (pick + notPick) % mod;
+            }
+        }
+        // move to next layer
+        next = curr;
+        curr = new int[n + 1][minProfit + 1];
+    }
+
+    return next[n][0];
+
 
 
         
