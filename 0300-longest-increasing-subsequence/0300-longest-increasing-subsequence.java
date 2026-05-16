@@ -37,25 +37,25 @@ class Solution {
 
         int n = nums.length;
 
-        int[] dp = new int[n + 1];
+        int[] dp = new int[n];
 
-        for(int ind = n - 1; ind >= 0; ind--){
+        Arrays.fill(dp,1);
 
-            for(int prev = -1; prev < ind; prev++){
+        int maxi = Integer.MIN_VALUE;
 
-                int notPick = dp[prev + 1];
+        for(int i = 0; i < n; i++){
 
-                int pick = 0;
+            for(int j = 0; j < i; j++){
 
-                if(prev == -1 || prev >= 0 && nums[ind] > nums[prev]){
+                if(nums[i] > nums[j]){
 
-                    pick = 1 + dp[ind + 1];
+                    dp[i] = Math.max(dp[i], 1 + dp[j]);
                 }
-
-                dp[prev + 1] = Math.max(pick,notPick);
             }
+
+            maxi = Math.max(maxi,dp[i]);
         }
 
-        return dp[0];
+        return maxi;
     }
 }
