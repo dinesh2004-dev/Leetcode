@@ -35,7 +35,10 @@ class Solution {
         
         // return solve(0,0,text1,text2,dp);
 
-        int[][] dp = new int[n1 + 1][n2 + 1];
+        // int[][] dp = new int[n1 + 1][n2 + 1];
+
+         int[] prev = new int[n2 + 1];
+        int[] curr = new int[n2 + 1];
 
         for(int ind1 = n1 - 1; ind1 >= 0; ind1--){
 
@@ -43,15 +46,17 @@ class Solution {
 
                 if(text1.charAt(ind1) == text2.charAt(ind2)){
 
-                    dp[ind1][ind2] = 1 + dp[ind1 + 1][ind2 + 1];
+                    curr[ind2] = 1 + prev[ind2 + 1];
                 }
                 else{
 
-                    dp[ind1][ind2] = Math.max(dp[ind1 + 1][ind2],dp[ind1][ind2 + 1]);
+                    curr[ind2] = Math.max(curr[ind2 + 1],prev[ind2]);
                 }
             }
+
+            System.arraycopy(curr, 0, prev, 0, n2 + 1);
         }
 
-        return dp[0][0];
+        return prev[0];
     }
 }
