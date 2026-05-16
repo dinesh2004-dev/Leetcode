@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dinesh2004-dev/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/dinesh2004-dev/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/dinesh2004-dev/Leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/dinesh2004-dev/Leetcode/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0179-largest-number) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dinesh2004-dev/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/dinesh2004-dev/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0120-triangle) |
