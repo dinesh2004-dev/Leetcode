@@ -78,33 +78,29 @@ class Solution {
         
         // return solve(0,strs,m,n,dp);
 
-        int[][][] dp = new int[len + 1][m + 1][n + 1];
+        int[][] dp = new int[m + 1][n + 1];
 
         for(int ind = len -  1; ind >= 0; ind--){
 
-            for(int i = 0; i <= m; i++){
+             int[] onesAndZeros = mpp.get(ind);
+             int zeros = onesAndZeros[0];
+             int ones = onesAndZeros[1];
 
-                for(int j = 0; j <= n; j++){
+            for(int i = m; i >= zeros; i--){
 
-                    int notPick = dp[ind + 1][i][j];
+                for(int j = n; j >= ones; j--){
 
-                    int[] onesAndZeros = mpp.get(ind);
-
-                    int zeros = onesAndZeros[0];
-                    int ones = onesAndZeros[1];
+                    int notPick = dp[i][j];
 
                     int pick = Integer.MIN_VALUE;
 
-                    if(i >= zeros && j >= ones){
+                    pick = 1 + dp[i - zeros][j - ones];
 
-                        pick = 1 + dp[ind + 1][i - zeros][j - ones];
-                    }
-
-                    dp[ind][i][j] = Math.max(pick,notPick);
+                    dp[i][j] = Math.max(pick,notPick);
                 }
             }
         }
 
-        return dp[0][m][n];
+        return dp[m][n];
     }
 }
