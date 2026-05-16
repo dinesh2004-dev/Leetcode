@@ -64,18 +64,47 @@ class Solution {
 
         int len = strs.length;
 
-        int[][][] dp = new int[len][m + 1][n + 1];
+        // int[][][] dp = new int[len][m + 1][n + 1];
 
-        for(int[][] d1 : dp){
+        // for(int[][] d1 : dp){
 
-            for(int[] d2 : d1){
+        //     for(int[] d2 : d1){
 
-                Arrays.fill(d2,-1);
-            }
-        }
+        //         Arrays.fill(d2,-1);
+        //     }
+        // }
         
         fillMap(strs);
         
-        return solve(0,strs,m,n,dp);
+        // return solve(0,strs,m,n,dp);
+
+        int[][][] dp = new int[len + 1][m + 1][n + 1];
+
+        for(int ind = len -  1; ind >= 0; ind--){
+
+            for(int i = 0; i <= m; i++){
+
+                for(int j = 0; j <= n; j++){
+
+                    int notPick = dp[ind + 1][i][j];
+
+                    int[] onesAndZeros = mpp.get(ind);
+
+                    int zeros = onesAndZeros[0];
+                    int ones = onesAndZeros[1];
+
+                    int pick = Integer.MIN_VALUE;
+
+                    if(i >= zeros && j >= ones){
+
+                        pick = 1 + dp[ind + 1][i - zeros][j - ones];
+                    }
+
+                    dp[ind][i][j] = Math.max(pick,notPick);
+                }
+            }
+        }
+
+        return dp[0][m][n];
     }
 }
