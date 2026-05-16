@@ -41,7 +41,7 @@ class Solution {
 
         for(int ind = n - 1; ind >= 0; ind--){
 
-            for(int prev = -1; prev < n; prev++){
+            for(int prev = -1; prev < ind; prev++){
 
                 int notPick = dp[ind + 1][prev + 1];
 
