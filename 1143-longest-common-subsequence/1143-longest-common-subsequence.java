@@ -26,13 +26,32 @@ class Solution {
         int n1 = text1.length();
         int n2 = text2.length();
 
-        int[][] dp = new int[n1][n2];
+        // int[][] dp = new int[n1][n2];
 
-        for(int[] d : dp){
+        // for(int[] d : dp){
 
-            Arrays.fill(d,-1);
-        }
+        //     Arrays.fill(d,-1);
+        // }
         
-        return solve(0,0,text1,text2,dp);
+        // return solve(0,0,text1,text2,dp);
+
+        int[][] dp = new int[n1 + 1][n2 + 1];
+
+        for(int ind1 = n1 - 1; ind1 >= 0; ind1--){
+
+            for(int ind2 = n2 - 1; ind2 >= 0; ind2--){
+
+                if(text1.charAt(ind1) == text2.charAt(ind2)){
+
+                    dp[ind1][ind2] = 1 + dp[ind1 + 1][ind2 + 1];
+                }
+                else{
+
+                    dp[ind1][ind2] = Math.max(dp[ind1 + 1][ind2],dp[ind1][ind2 + 1]);
+                }
+            }
+        }
+
+        return dp[0][0];
     }
 }
