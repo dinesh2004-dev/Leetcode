@@ -1,46 +1,38 @@
 class Solution {
-    private int lowerBound(List<Integer> list,int key){
+    private int solve(int ind,int prev,int[] nums,int[][] dp){
 
-        int low = 0,high = list.size() - 1;
+        if(ind == nums.length){
 
-        while(low <= high){
-
-            int mid = low + ( high - low) / 2;
-
-            if(list.get(mid) >= key){
-
-                high = mid - 1;
-            }
-            else{
-
-                low = mid + 1;
-            
-            }
+            return 0;
         }
 
-        return low;
+        if(dp[ind][prev + 1] != -1){
+
+            return dp[ind][prev + 1];
+        }
+
+        int notPick = solve(ind + 1,prev,nums,dp);
+
+        int pick = 0;
+
+        if(prev == -1 || prev >= 0 && nums[ind] > nums[prev]){
+
+            pick = 1 + solve(ind + 1,ind,nums,dp);
+        }
+
+        return dp[ind][prev + 1] = Math.max(pick,notPick);
     }
     public int lengthOfLIS(int[] nums) {
-        
-        List<Integer> list = new ArrayList<>();
 
         int n = nums.length;
 
-        list.add(nums[0]);
+        int[][] dp = new int[n + 1][n + 1];
 
-        for(int i = 1; i < n; i++){
+        for(int[] d : dp){
 
-            if(list.get(list.size() - 1) < nums[i]){
-
-                list.add(nums[i]);
-            }
-            else{
-
-                int idx = lowerBound(list,nums[i]);
-                list.set(idx,nums[i]);
-            }
+            Arrays.fill(d,-1);
         }
-
-        return list.size();
+        
+        return solve(0,-1,nums,dp);
     }
 }
