@@ -1,43 +1,35 @@
 class Solution {
-    public boolean solve(String s,int l,int h,boolean[][] dp){
+    private boolean isPalindrome(String s,int left,int right){
 
-        if(l >= h){
+        while(left <= right){
 
-            return true;
+            if(s.charAt(left) != s.charAt(right)){
+
+                return false;
+            }
+
+            left++;
+            right--;
         }
 
-        if(dp[l][h]){
-
-            return dp[l][h];
-        }
-
-        if(s.charAt(l) == s.charAt(h)){
-
-            return dp[l][h] = solve(s,l + 1,h - 1,dp);
-        }
-
-        return dp[l][h] = false;
+        return true;
     }
     public int countSubstrings(String s) {
-
+        
         int n = s.length();
-
-        int count = 0;
-
-        boolean[][] dp = new boolean[n][n];
+        int cnt = 0;
 
         for(int i = 0; i < n; i++){
 
             for(int j = i; j < n; j++){
 
-                if(solve(s,i,j,dp)){
+                if(isPalindrome(s,i,j)){
 
-                    count++;
+                    cnt++;
                 }
             }
         }
 
-        return count;
-        
+        return cnt;
     }
 }
