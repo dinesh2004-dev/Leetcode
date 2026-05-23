@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/dinesh2004-dev/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0730-count-different-palindromic-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0767-reorganize-string) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dinesh2004-dev/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0730-count-different-palindromic-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0799-champagne-tower](https://github.com/dinesh2004-dev/Leetcode/tree/master/0799-champagne-tower) |
 | [0808-number-of-matching-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0879-profitable-schemes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0879-profitable-schemes) |
