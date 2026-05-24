@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dinesh2004-dev/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dinesh2004-dev/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dinesh2004-dev/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dinesh2004-dev/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dinesh2004-dev/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dinesh2004-dev/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dinesh2004-dev/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
