@@ -36,7 +36,7 @@ class Solution {
         int m = dungeon.length;
         int n = dungeon[0].length;
 
-        int[][] dp = new int[m + 1][n + 1];
+        int[][] dp = new int[201][201];
 
         for(int[] d : dp){
 
