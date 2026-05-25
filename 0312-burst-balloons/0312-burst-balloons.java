@@ -1,5 +1,5 @@
 class Solution {
-    private int memoize(int[] nums,int i,int j,int[][] dp){
+    private int solve(int[] newNums,int i,int j,int[][] dp){
 
         if(i > j){
 
@@ -11,59 +11,20 @@ class Solution {
             return dp[i][j];
         }
 
-        int maxi = Integer.MIN_VALUE;
+        int res = (int) -1e9;
 
         for(int k = i; k <= j; k++){
 
-           int coins = (nums[i - 1] * nums[k] * nums[j + 1]) +
-                        memoize(nums,i,k - 1,dp) + memoize(nums,k + 1,j,dp);
-            
-            maxi = Math.max(coins,maxi);
+            int burst = newNums[i - 1] * newNums[k] * newNums[j + 1]
+                            + solve(newNums,i,k - 1,dp) + solve(newNums,k + 1,j,dp);
+
+            res = Math.max(res,burst);
         }
 
-        return dp[i][j] = maxi;
-    }
-    private int tabulation(int[] nums){
-
-        int n = nums.length;
-
-        int[][] dp = new int[n][n];
-
-        
-        for(int i = n - 2; i >= 1; i--){
-
-            for(int j = 1; j <= n - 2; j++){
-
-                if(i > j){
-                    continue;
-                }
-
-                int maxi = Integer.MIN_VALUE;
-
-                for(int k = i; k <= j; k++){
-
-                    int coins = (nums[i - 1] * nums[k] * nums[j + 1]) +
-                        dp[i][k - 1] + dp[k + 1][j];
-
-                    maxi = Math.max(maxi,coins);
-
-                }
-
-                dp[i][j] = maxi;
-
-
-            }
-
-            
-        }
-
-       
-
-        return dp[1][n - 2];
+        return dp[i][j] = res;
     }
     public int maxCoins(int[] nums) {
-        //your code goes here
-
+        
         int n = nums.length;
 
         int[] newNums = new int[n + 2];
@@ -71,20 +32,18 @@ class Solution {
         newNums[0] = 1;
         newNums[n + 1] = 1;
 
-        int dp[][] = new int[n + 2][n + 2];
+        int[][] dp = new int[n + 2][n + 2];
 
         for(int[] d : dp){
 
             Arrays.fill(d,-1);
         }
 
-        for(int i = 0; i  < n; i++){
+        for(int i = 0; i < n; i++){
 
             newNums[i + 1] = nums[i];
         }
 
-        return memoize(newNums,1,n,dp);
-
-        // return tabulation(newNums);
+        return solve(newNums,1,n,dp);
     }
 }
