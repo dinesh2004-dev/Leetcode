@@ -29,11 +29,31 @@ class Solution {
 
         int[][] dp = new int[n][n];
 
-        for(int[] d : dp){
+        // for(int[] d : dp){
 
-            Arrays.fill(d,-1);
+        //     Arrays.fill(d,-1);
+        // }
+
+        // return solve(values,1,n - 1,dp);
+
+        for(int i = n - 1; i >= 1; i--){
+
+            for(int j = i + 1; j < n; j++){
+
+                int res = (int) 1e9;
+
+                for(int k = i; k <= j - 1; k++){
+
+                    int triangulation = values[i - 1] * values[k] * values[j]
+                                        + dp[i][k] + dp[k + 1][j];
+                    
+                    res = Math.min(res,triangulation);
+                }
+
+                dp[i][j] = res;
+            }
         }
 
-        return solve(values,1,n - 1,dp);
+        return dp[1][n - 1];
     }
 }
