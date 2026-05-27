@@ -5,26 +5,26 @@ class Solution {
 
         for(char ch : tasks){
 
-            hash[ch -'A']++;
+            hash[ch - 'A']++;
         }
 
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
 
-        for(int key : hash){
+        for(int h : hash){
 
-            if(key > 0){
+            if(h > 0){
 
-                pq.add(key);
+                pq.add(h);
             }
         }
 
-        int time = 0;
+        int intervals = 0;
 
         while(!pq.isEmpty()){
 
             List<Integer> temp = new ArrayList<>();
             int taskCount = 0;
-            int cycle = n + 1;
+            int cycle = n  + 1;
 
             for(int i = 0; i < cycle; i++){
 
@@ -35,17 +35,17 @@ class Solution {
                 }
             }
 
-            for(int rem : temp){
+            for(int ele : temp){
 
-                if(rem > 0){
+                if(ele > 0){
 
-                    pq.add(rem);
+                    pq.add(ele);
                 }
             }
 
-            time += pq.isEmpty() ? taskCount : cycle;
+            intervals += (pq.isEmpty()) ? taskCount : cycle;
         }
 
-        return time;
+        return intervals;
     }
 }
