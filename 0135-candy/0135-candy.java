@@ -3,37 +3,49 @@ class Solution {
         
         int n = ratings.length;
 
-        int[] candies = new int[n];
+        int sum = 1;
 
-        Arrays.fill(candies,1);
+        int i = 1;
 
-        for(int i = 1; i < n; i++){
+        while(i < n){
 
-            if(ratings[i] > ratings[i - 1]){
+            if(ratings[i] == ratings[i - 1]){
 
-                candies[i] = candies[i - 1] + 1;
+                sum++;
+                i++;
+                continue;
             }
 
-             
-        }
+            int peak = 1;
 
-        for(int ele : candies){
+            while(i < n && ratings[i] > ratings[i - 1]){
 
-            System.out.print(ele+" ");
-        }
+                peak++;
 
-         for(int i = n - 2; i >= 0; i--){
+                sum = sum + peak;
 
-            if(ratings[i] > ratings[i + 1]){
-
-                candies[i] = Math.max(candies[i],candies[i + 1] + 1);
+                i++;
             }
 
-             
-        }
+            int down = 1;
 
-        int sum = Arrays.stream(candies).sum();
+            while(i < n && ratings[i] < ratings[i - 1]){
+
+                sum = sum + down;
+
+                down++;
+
+                i++;
+            }
+
+            if(down > peak){
+
+                sum += (down - peak);
+            }
+        }
 
         return sum;
+
+        
     }
 }
