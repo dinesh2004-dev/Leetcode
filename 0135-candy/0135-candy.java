@@ -40,6 +40,8 @@ class Solution {
 
             if(down > peak){
 
+                
+
                 sum += (down - peak);
             }
         }
