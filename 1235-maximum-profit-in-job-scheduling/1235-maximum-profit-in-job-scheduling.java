@@ -25,13 +25,13 @@ class Solution {
 
             int mid = low + (high - low) / 2;
 
-            if(val > intervals[mid][0]){
+            if(intervals[mid][0] >= val){
 
-                low = mid + 1;
+                high = mid - 1;
             }
             else{
 
-                high = mid - 1;
+                low = mid + 1;
             }
         }
 
