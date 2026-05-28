@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/dinesh2004-dev/Leetcode/tree/master/0279-perfect-squares) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dinesh2004-dev/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0991-broken-calculator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0991-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dinesh2004-dev/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dinesh2004-dev/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/dinesh2004-dev/Leetcode/tree/master/1390-four-divisors) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0991-broken-calculator](https://github.com/dinesh2004-dev/Leetcode/tree/master/0991-broken-calculator) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/dinesh2004-dev/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/dinesh2004-dev/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
