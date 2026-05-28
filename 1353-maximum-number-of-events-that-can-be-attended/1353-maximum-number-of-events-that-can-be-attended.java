@@ -16,7 +16,7 @@ class Solution {
 
         int ans = 0;
 
-        for(int i = 0,j = 0; i <= maxDay; i++){
+        for(int i = events[0][0],j = 0; i <= maxDay; i++){
 
             while(j < n && events[j][0] <= i){
 
