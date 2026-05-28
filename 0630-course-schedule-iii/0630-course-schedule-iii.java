@@ -5,9 +5,8 @@ class Solution {
 
         Arrays.sort(courses,(x,y) -> x[1] - y[1]);
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>
-                                        ((x,y) -> y - x);
-        
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+
         int total = 0;
 
         for(int i = 0; i < n; i++){
@@ -18,12 +17,14 @@ class Solution {
 
             pq.add(duration);
 
-            if(total > courses[i][1]){
+            if(total > lastDay){
 
-                total -= pq.poll();
+                total = total - pq.poll();
             }
         }
 
         return pq.size();
+
+
     }
 }
