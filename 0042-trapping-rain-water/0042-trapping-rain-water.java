@@ -33,14 +33,37 @@ class Solution {
         
         int n = height.length;
 
-        int[] prefix = findPrefixMax(height);
-        int[] suffix = findSuffixMax(height);
+        int left = 0,right = n - 1;
+        int leftMax = 0,rightMax = 0,res = 0;
 
-        int res = 0;
+        while(left <= right){
 
-        for(int i = 0; i < n; i++){
+            if(height[left] < height[right]){
 
-            res = res + (Math.min(prefix[i],suffix[i]) - height[i]);
+                if(height[left] > leftMax){
+
+                    leftMax = height[left];
+                }
+                else{
+
+                    res = res + (leftMax - height[left]);
+                }
+
+                left++;
+            }
+            else{
+
+                if(height[right] > rightMax){
+
+                    rightMax= height[right];
+                }
+                else{
+
+                    res = res + (rightMax - height[right]);
+                }
+
+                right--;
+            }
         }
 
         return res;
