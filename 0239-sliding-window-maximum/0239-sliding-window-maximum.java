@@ -14,27 +14,29 @@ class Solution {
         
         int n = nums.length;
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((x,y) -> y.val - x.val);
+        List<Integer> temp = new ArrayList<>();
 
-        List<Integer> list = new ArrayList<>();
+        PriorityQueue<Pair> pq = new PriorityQueue<>((x,y) -> y.val - x.val);
 
         for(int i = 0; i < n; i++){
 
-            pq.add(new Pair(nums[i],i));
+            Pair pair = new Pair(nums[i],i);
+
+            pq.add(pair);
 
             while(pq.peek().idx <= i - k){
 
                 pq.poll();
             }
 
-            if(i >= k - 1){
+            if(i >= k-1){
 
-                list.add(pq.peek().val);
+                temp.add(pq.peek().val);
             }
         }
 
-        return list.stream()
-                    .mapToInt(Integer :: intValue)
+        return temp.stream()
+                    .mapToInt(Integer::intValue)
                     .toArray();
     }
 }
