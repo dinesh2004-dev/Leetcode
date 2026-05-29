@@ -1,14 +1,3 @@
-class Pair{
-
-    int val;
-    int idx;
-
-    public Pair(int val,int idx){
-
-        this.val = val;
-        this.idx = idx;
-    }
-}
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
         
@@ -16,23 +5,27 @@ class Solution {
 
         List<Integer> temp = new ArrayList<>();
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>((x,y) -> y.val - x.val);
+        Deque<Integer> dq = new LinkedList<>();
 
         for(int i = 0; i < n; i++){
 
-            Pair pair = new Pair(nums[i],i);
+            if(!dq.isEmpty() && dq.peekFirst() <= (i - k)){
 
-            pq.add(pair);
-
-            while(pq.peek().idx <= i - k){
-
-                pq.poll();
+                dq.pollFirst();
             }
 
-            if(i >= k-1){
+            while(!dq.isEmpty() && nums[i] >= nums[dq.peekLast()]){
 
-                temp.add(pq.peek().val);
+                dq.pollLast();
             }
+
+            dq.offerLast(i);
+
+            if(i >= k - 1){
+
+                temp.add(nums[dq.peekFirst()]);
+            }
+
         }
 
         return temp.stream()
