@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0761-special-binary-string) |
+| [0763-partition-labels](https://github.com/dinesh2004-dev/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
 | [0796-rotate-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0796-rotate-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/dinesh2004-dev/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/dinesh2004-dev/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/dinesh2004-dev/Leetcode/tree/master/0763-partition-labels) |
 | [0953-reverse-only-letters](https://github.com/dinesh2004-dev/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dinesh2004-dev/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/dinesh2004-dev/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dinesh2004-dev/Leetcode/tree/master/0621-task-scheduler) |
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/dinesh2004-dev/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/0808-number-of-matching-subsequences) |
