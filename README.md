@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dinesh2004-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/dinesh2004-dev/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dinesh2004-dev/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dinesh2004-dev/Leetcode/tree/master/0067-add-binary) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dinesh2004-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/dinesh2004-dev/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/dinesh2004-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/dinesh2004-dev/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dinesh2004-dev/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dinesh2004-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
