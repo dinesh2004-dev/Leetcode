@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dinesh2004-dev/Leetcode/tree/master/0724-find-pivot-index) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0939-valid-permutations-for-di-sequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dinesh2004-dev/Leetcode/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dinesh2004-dev/Leetcode/tree/master/0621-task-scheduler) |
 | [0756-pyramid-transition-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0756-pyramid-transition-matrix) |
