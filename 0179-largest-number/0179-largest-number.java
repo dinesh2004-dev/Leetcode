@@ -17,13 +17,13 @@ class Solution {
             return "0";
         }
 
-        StringBuilder s = new StringBuilder();
+        StringBuilder res = new StringBuilder();
 
-        for(String str : strNum){
+        for(String s : strNum){
 
-            s.append(str);
+            res.append(s);
         }
 
-        return s.toString();
+        return res.toString();
     }
 }
