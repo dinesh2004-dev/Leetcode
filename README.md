@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/dinesh2004-dev/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/dinesh2004-dev/Leetcode/tree/master/0763-partition-labels) |
 | [0953-reverse-only-letters](https://github.com/dinesh2004-dev/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1537-get-the-maximum-score](https://github.com/dinesh2004-dev/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dinesh2004-dev/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dinesh2004-dev/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1537-get-the-maximum-score](https://github.com/dinesh2004-dev/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1559-cherry-pickup-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dinesh2004-dev/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dinesh2004-dev/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1529-minimum-suffix-flips](https://github.com/dinesh2004-dev/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1537-get-the-maximum-score](https://github.com/dinesh2004-dev/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1612-avoid-flood-in-the-city](https://github.com/dinesh2004-dev/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dinesh2004-dev/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/dinesh2004-dev/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dinesh2004-dev/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1537-get-the-maximum-score](https://github.com/dinesh2004-dev/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1559-cherry-pickup-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dinesh2004-dev/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
