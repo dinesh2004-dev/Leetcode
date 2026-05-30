@@ -3,30 +3,35 @@ class Solution {
         
         int n = s.length();
 
-        int l = 0,r = 0;
+        Map<Character,Integer> mpp = new HashMap<>();
+
+        int left = 0,right = 0;
 
         int maxLen = 0;
 
-        int[] hash = new int[256];
+        while(right < n){
 
-        Arrays.fill(hash,-1);
+            mpp.put(s.charAt(right),mpp.getOrDefault(s.charAt(right),0) + 1);
 
-        while(r < n){
+            while((right - left + 1) > mpp.size()){
 
-            if(hash[s.charAt(r)] != -1){
+                mpp.put(s.charAt(left),mpp.get(s.charAt(left)) - 1);
 
-                l = Math.max(hash[s.charAt(r)] + 1,l);
+                if(mpp.get(s.charAt(left)) == 0){
+
+                    mpp.remove(s.charAt(left));
+                }
+
+                left++;
             }
 
-            int len = r - l + 1;
+            maxLen = Math.max(maxLen,right - left + 1);
 
-            maxLen = Math.max(len,maxLen);
+            right++;
 
-            hash[s.charAt(r)] = r;
 
-            r++;
         }
-        return maxLen;
 
+        return maxLen;
     }
 }
