@@ -1,4 +1,31 @@
 class Solution {
+   private boolean dfs(int node,List<List<Integer>> adj,boolean[] visited,boolean[] pathVisited){
+
+        visited[node] = true;
+        pathVisited[node] = true;
+
+        for(int neighbours : adj.get(node)){
+
+             if(pathVisited[neighbours]){
+
+                return true;
+            }
+
+            if(!visited[neighbours]){
+
+                if(dfs(neighbours,adj,visited,pathVisited)){
+
+                    return true;
+                }
+               
+            }
+           
+        }
+
+        pathVisited[node] = false;
+
+        return false;
+    }
     private List<List<Integer>> constructAdjList(int[][] edges,int n){
 
 
@@ -20,52 +47,23 @@ class Solution {
         return adj;
     }
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-
-        List<List<Integer>> adj = constructAdjList(prerequisites,numCourses);
         
-        int[] inDegree = new int[numCourses];
+        List<List<Integer>> adj = constructAdjList(prerequisites,numCourses);
+
+        boolean[] visited = new boolean[numCourses];
+        boolean[] pathVisited = new boolean[numCourses];
 
         for(int i = 0; i < numCourses; i++){
 
-            for(int node : adj.get(i)){
+            if(!visited[i]){
 
-                inDegree[node]++;
-            }
-        }
+                if(dfs(i,adj,visited,pathVisited)){
 
-        Queue<Integer> q = new LinkedList<>();
-
-        for(int i = 0; i < numCourses; i++){
-
-            if(inDegree[i] == 0){
-
-                q.add(i);
-            }
-        }
-
-        // List<Integer> temp = new ArrayList<>();
-
-        int cnt = 0;
-
-        while(!q.isEmpty()){
-
-            int node = q.poll();
-
-            // temp.add(node);
-            cnt++;
-
-            for(int neighbour : adj.get(node)){
-
-                inDegree[neighbour]--;
-
-                if(inDegree[neighbour] == 0){
-
-                    q.add(neighbour);
+                    return false;
                 }
             }
         }
 
-        return cnt == numCourses;
-        
+        return true;
     }
 }
