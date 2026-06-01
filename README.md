@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dinesh2004-dev/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dinesh2004-dev/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/dinesh2004-dev/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/dinesh2004-dev/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/dinesh2004-dev/Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/dinesh2004-dev/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dinesh2004-dev/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0741-cherry-pickup](https://github.com/dinesh2004-dev/Leetcode/tree/master/0741-cherry-pickup) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/dinesh2004-dev/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dinesh2004-dev/Leetcode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/dinesh2004-dev/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/dinesh2004-dev/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dinesh2004-dev/Leetcode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/dinesh2004-dev/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/dinesh2004-dev/Leetcode/tree/master/0322-coin-change) |
@@ -1072,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/dinesh2004-dev/Leetcode/tree/master/0200-number-of-islands) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Quickselect
 |  |
