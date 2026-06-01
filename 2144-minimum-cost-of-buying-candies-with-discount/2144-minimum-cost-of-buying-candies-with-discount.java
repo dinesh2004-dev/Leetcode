@@ -23,16 +23,16 @@ class Solution {
 
         int totalCost = 0;
 
-        for(int c : cost){
-
-            totalCost += c;
-        }
-
         int free = 0;
 
-        for(int i = 2; i < n; i += 3){
+        for(int i = 0; i < n; i++){
 
-            free += cost[i];
+            totalCost += cost[i];
+
+            if((i + 1) % 3 == 0){
+
+                 free += cost[i];
+            }
         }
 
         return totalCost - free;
