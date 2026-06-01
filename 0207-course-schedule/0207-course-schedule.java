@@ -1,31 +1,4 @@
 class Solution {
-   private boolean dfs(int node,List<List<Integer>> adj,boolean[] visited,boolean[] pathVisited){
-
-        visited[node] = true;
-        pathVisited[node] = true;
-
-        for(int neighbours : adj.get(node)){
-
-            
-
-            if(!visited[neighbours]){
-
-                if(dfs(neighbours,adj,visited,pathVisited)){
-
-                    return true;
-                }
-               
-            }
-            if(pathVisited[neighbours]){
-
-                return true;
-            }
-        }
-
-        pathVisited[node] = false;
-
-        return false;
-    }
     private List<List<Integer>> constructAdjList(int[][] edges,int n){
 
 
@@ -47,23 +20,49 @@ class Solution {
         return adj;
     }
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        
-        List<List<Integer>> adj = constructAdjList(prerequisites,numCourses);
 
-        boolean[] visited = new boolean[numCourses];
-        boolean[] pathVisited = new boolean[numCourses];
+        List<List<Integer>> adj = constructAdjList(prerequisites,numCourses);
+        
+        int[] inDegree = new int[numCourses];
 
         for(int i = 0; i < numCourses; i++){
 
-            if(!visited[i]){
+            for(int node : adj.get(i)){
 
-                if(dfs(i,adj,visited,pathVisited)){
+                inDegree[node]++;
+            }
+        }
 
-                    return false;
+        Queue<Integer> q = new LinkedList<>();
+
+        for(int i = 0; i < numCourses; i++){
+
+            if(inDegree[i] == 0){
+
+                q.add(i);
+            }
+        }
+
+        List<Integer> temp = new ArrayList<>();
+
+        while(!q.isEmpty()){
+
+            int node = q.poll();
+
+            temp.add(node);
+
+            for(int neighbour : adj.get(node)){
+
+                inDegree[neighbour]--;
+
+                if(inDegree[neighbour] == 0){
+
+                    q.add(neighbour);
                 }
             }
         }
 
-        return true;
+        return temp.size() == numCourses;
+        
     }
 }
