@@ -19,17 +19,17 @@ class Solution {
         
         Arrays.sort(cost);
 
-        reverse(cost);
+        // reverse(cost);
 
         int totalCost = 0;
 
         int free = 0;
 
-        for(int i = 0; i < n; i++){
+        for(int i = n - 1; i >= 0; i--){
 
             totalCost += cost[i];
 
-            if((i + 1) % 3 == 0){
+            if((n - i) % 3 == 0){
 
                  free += cost[i];
             }
