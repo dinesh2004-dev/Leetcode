@@ -1,13 +1,39 @@
 class Solution {
     private static int[][] directions = {{1,0},{0,1},{-1,0},{0,-1}};
+    private boolean isSafe(char[][] grid,int r,int c,boolean[][] visited){
+
+        return ((r >= 0 && r < grid.length) && (c >= 0 && c < grid[0].length) 
+        && !visited[r][c] && grid[r][c] == '1');
+    }
+    private void bfs(char[][] grid,int r,int c,boolean[][] visited){
+
+        Queue<int[]> q = new LinkedList<>();
+
+        q.add(new int[]{r,c});
+
+        while(!q.isEmpty()){
+
+            int[] top = q.poll();
+
+            int row = top[0];
+            int col = top[1];
+
+            
+        }
+    }
     private void dfs(char[][] grid,int r,int c,boolean[][] visited){
 
-        if(r < 0 || r >= grid.length || c < 0 || c >= grid[0].length 
-        || visited[r][c] || grid[r][c] == '0'){
+        // if(r < 0 || r >= grid.length || c < 0 || c >= grid[0].length 
+        // || visited[r][c] || grid[r][c] == '0'){
+
+        //     return;
+        // }
+
+        if(!isSafe(grid,r,c,visited)){
 
             return;
-        }
 
+        }
         visited[r][c] = true;
 
         for(int[] dir : directions){
