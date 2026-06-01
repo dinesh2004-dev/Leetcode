@@ -1,64 +1,69 @@
 class Solution {
-    public List<List<Integer>> constructAdjacencyList(int v,int[][] edges){
+   private boolean dfs(int node,List<List<Integer>> adj,boolean[] visited,boolean[] pathVisited){
+
+        visited[node] = true;
+        pathVisited[node] = true;
+
+        for(int neighbours : adj.get(node)){
+
+            
+
+            if(!visited[neighbours]){
+
+                if(dfs(neighbours,adj,visited,pathVisited)){
+
+                    return true;
+                }
+               
+            }
+            if(pathVisited[neighbours]){
+
+                return true;
+            }
+        }
+
+        pathVisited[node] = false;
+
+        return false;
+    }
+    private List<List<Integer>> constructAdjList(int[][] edges,int n){
+
 
         List<List<Integer>> adj = new ArrayList<>();
 
-        for(int i = 0; i < v; i++){
+        for(int i = 0; i < n; i++){
 
             adj.add(new ArrayList<>());
         }
 
         for(int[] edge : edges){
 
-            adj.get(edge[0]).add(edge[1]);
+            int u = edge[0];
+            int v = edge[1];
+
+            adj.get(u).add(v);
         }
 
         return adj;
     }
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        
+        List<List<Integer>> adj = constructAdjList(prerequisites,numCourses);
 
-        List<List<Integer>> adj = constructAdjacencyList(numCourses,prerequisites);
-
-        int[] indegree = new int[numCourses];
-
-        for(int i = 0; i < numCourses; i++){
-
-            for(int node : adj.get(i)){
-
-                indegree[node]++;
-            }
-        }
-
-        Queue<Integer> q = new LinkedList<>();
+        boolean[] visited = new boolean[numCourses];
+        boolean[] pathVisited = new boolean[numCourses];
 
         for(int i = 0; i < numCourses; i++){
 
-            if(indegree[i] == 0){
+            if(!visited[i]){
 
-                q.add(i);
-            }
-        }
+                if(dfs(i,adj,visited,pathVisited)){
 
-        int processedNodes = 0;
-
-        while(!q.isEmpty()){
-
-            int node = q.poll();
-
-            processedNodes++;
-
-            for(int neighbours : adj.get(node)){
-
-                indegree[neighbours]--;
-
-                if(indegree[neighbours] == 0){
-
-                    q.add(neighbours);
+                    return false;
                 }
             }
         }
 
-        return (processedNodes == numCourses) ? true : false;
-        
+        return true;
     }
 }
