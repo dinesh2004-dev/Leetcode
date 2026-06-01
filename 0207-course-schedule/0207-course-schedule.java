@@ -43,13 +43,16 @@ class Solution {
             }
         }
 
-        List<Integer> temp = new ArrayList<>();
+        // List<Integer> temp = new ArrayList<>();
+
+        int cnt = 0;
 
         while(!q.isEmpty()){
 
             int node = q.poll();
 
-            temp.add(node);
+            // temp.add(node);
+            cnt++;
 
             for(int neighbour : adj.get(node)){
 
@@ -62,7 +65,7 @@ class Solution {
             }
         }
 
-        return temp.size() == numCourses;
+        return cnt == numCourses;
         
     }
 }
