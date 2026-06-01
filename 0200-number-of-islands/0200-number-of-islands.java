@@ -18,6 +18,21 @@ class Solution {
             int row = top[0];
             int col = top[1];
 
+            if(!isSafe(grid,row,col,visited)){
+
+                continue;
+            }
+
+            visited[row][col] = true;
+
+            for(int[] dir : directions){
+
+                int x = row + dir[0];
+                int y = col + dir[1];
+
+                q.add(new int[]{x,y});
+            }
+
             
         }
     }
@@ -60,7 +75,7 @@ class Solution {
 
                 if(grid[i][j] == '1' && !visited[i][j]){
 
-                    dfs(grid,i,j,visited);
+                    bfs(grid,i,j,visited);
                     noOfIslands++;
                 }
             }
