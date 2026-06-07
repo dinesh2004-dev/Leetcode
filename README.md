@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dinesh2004-dev/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dinesh2004-dev/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/dinesh2004-dev/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/dinesh2004-dev/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/dinesh2004-dev/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/dinesh2004-dev/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/dinesh2004-dev/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bit Manipulation
 |  |
