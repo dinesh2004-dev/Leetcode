@@ -32,6 +32,20 @@ class Solution {
 
         return ans;
     }
+    // private long pow(long base,int exp){
+
+    //     if(exp == 0){
+
+    //         return 1;
+    //     }
+
+    //     if(exp % 2 == 0){
+
+    //         return (pow(base * base,exp / 2) % MOD);
+    //     }
+
+    //     return (base * pow(base,exp - 1)) % MOD;
+    // }
     public int assignEdgeWeights(int[][] edges) {
         
         Map<Integer,List<Integer>> adj = new HashMap<>();
