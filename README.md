@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/dinesh2004-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/dinesh2004-dev/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/dinesh2004-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/dinesh2004-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
