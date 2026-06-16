@@ -1,13 +1,5 @@
 class Solution {
-    private void duplicate(StringBuilder res){
-
-        int n = res.length();
-
-        for(int i = 0; i < n; i++){
-
-            res.append(res.charAt(i));
-        }
-    }
+    
     
     public String processStr(String s) {
         
@@ -26,7 +18,7 @@ class Solution {
             }
             else if(ch == '#'){
 
-                duplicate(res);
+                res.append(res.toString());
             }
             else if(ch == '%'){
                 res.reverse();
