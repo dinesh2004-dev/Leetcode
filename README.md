@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/dinesh2004-dev/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/dinesh2004-dev/Leetcode/tree/master/3396-valid-word) |
+| [3612-process-string-with-special-operations-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dinesh2004-dev/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/dinesh2004-dev/Leetcode/tree/master/3838-weighted-word-mapping) |
