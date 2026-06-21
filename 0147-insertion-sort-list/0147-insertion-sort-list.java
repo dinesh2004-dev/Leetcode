@@ -9,64 +9,35 @@
  * }
  */
 class Solution {
-    static ListNode head;
-    private static int getMinNode(){
-
-      if(head == null){
-           
-          return Integer.MAX_VALUE;
-      }
-       
-       ListNode temp = head;
-       
-       int min = temp.val;
-       
-       while(temp != null){
-           
-           min = Math.min(min,temp.val);
-           temp = temp.next;
-       }
-       
-       if(head.val == min){
-           
-           head = head.next;
-           
-           return min;
-       }
-       
-       temp = head;
-       
-       while(temp.next != null){
-           
-           if(temp.next.val == min){
-               
-               temp.next = temp.next.next;
-               return min;
-           }
-           
-           temp = temp.next;
-       }
-       
-       return min;
-        
-    }
     public ListNode insertionSortList(ListNode head) {
         
-        Solution.head = head;
+        ListNode dummy = new ListNode(0,head);
 
-        ListNode dummy = new ListNode(-1);
+        ListNode curr = head.next;
+        ListNode prev = head;
 
-        ListNode temp = dummy;
+        while(curr != null){
 
-        int data = getMinNode();
+            if(curr.val >= prev.val){
 
-        while(data != Integer.MAX_VALUE){
+                prev = curr;
+                curr = curr.next;
 
-            ListNode newNode = new ListNode(data);
-            temp.next = newNode;
-            temp = temp.next;
+                continue;
+            }
 
-            data = getMinNode();
+            ListNode temp = dummy;
+
+            while(curr.val > temp.next.val){
+
+                temp = temp.next;
+            }
+
+            prev.next = curr.next;
+            curr.next = temp.next;
+            temp.next = curr;
+
+            curr = prev.next;
         }
 
         return dummy.next;
