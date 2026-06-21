@@ -14,6 +14,10 @@ class Solution {
                 iceCreamCost = iceCreamCost + cost;
                 maxIceCreams++;
             }
+            else if(iceCreamCost + cost > coins){
+
+                return maxIceCreams;
+            }
         }
 
         return maxIceCreams;
