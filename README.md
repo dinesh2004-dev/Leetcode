@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/dinesh2004-dev/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/dinesh2004-dev/Leetcode/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dinesh2004-dev/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/dinesh2004-dev/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dinesh2004-dev/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1622-fancy-sequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/1622-fancy-sequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0327-count-of-range-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dinesh2004-dev/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dinesh2004-dev/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1071,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dinesh2004-dev/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Monotonic Stack
 |  |
@@ -1144,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/dinesh2004-dev/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dinesh2004-dev/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/dinesh2004-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/dinesh2004-dev/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/dinesh2004-dev/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1164,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dinesh2004-dev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dinesh2004-dev/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/dinesh2004-dev/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Bucket Sort
 |  |
 | ------- |
